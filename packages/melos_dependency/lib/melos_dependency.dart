@@ -7,3 +7,4 @@ class Calculator {
 }
 
 class CalculatorOne {}
+class CalculatorTwo {}
